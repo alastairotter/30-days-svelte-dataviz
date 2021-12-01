@@ -55,6 +55,10 @@ The first thing we need to do is to install Svelte and set up a Svelte project. 
 
 You will need to run the following setup commands in the terminal on your computer. Depending on your platform there are various options. On Mac you can use the [built-in terminal app](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/). On Windows you can use the [built-in Command Prompt app (CMD)](https://www.webucator.com/article/how-to-run-a-nodejs-application-on-windows/). On Linux you can search for the "terminal" app and run that.
 
+Your terminal will look something like this (it may vary in colour):
+
+![terminal](/public/images/terminal.png)
+
 **Resources**
 
 - [A quick guide to using commmand line (terminal)](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955)
