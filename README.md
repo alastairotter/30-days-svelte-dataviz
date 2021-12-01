@@ -1,18 +1,18 @@
 # 30 days of Svelte, D3.js & data visualisation
 
-#### Plan
+### Plan
 
 Every day in December 2021 I plan to write a small piece about using [Svelte](https://svelte.dev/) and [D3.js](https://d3js.org/) to create data visualisations. On day 1 we'll start by installing Svelte and getting our basic project running. Each day after that we'll add more elements to our setup until we have a presentable chart.
 
 In doing this I hope that I can learn more about the process (and document it) for myself and perhaps share some ideas.
 
-#### What is Svelte?
+### What is Svelte?
 
 Svelte is a relatively new Javascript framework/library that helps build Javascript-based websites and apps. Working in Svelte will feel familiar to anyone that has used a framework like Vue.js or React. The difference with Svelte is that before we make our code public we compile it into its final form and then only publish the compiled code and none of the Svelte framework code. Sounds tricky but it's not.
 
 **Resources**: Svelte has an excellent, [interactive tutorial site](https://svelte.dev/tutorial/basics).
 
-#### What is D3?
+### What is D3?
 
 D3.js is a Javascript library that can be used to build interactive web elements and charts. In this series we'll make charts that are built on SVG, or scalable vector graphics which D3 is extremely flexible but it can be complicated to learn. D3 does not have pre-built charts like other tools such as [Flourish](https://flourish.studio) and [Datawrapper](https://datawrapper.de) which means it needs more work to start but the options are andless.
 
