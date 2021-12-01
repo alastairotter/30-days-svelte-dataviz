@@ -6,11 +6,11 @@
 
 ---
 
-### Plan
+<!-- ### Plan
 
 Every day in December 2021 I plan to write a small piece about using [Svelte](https://svelte.dev/) and [D3.js](https://d3js.org/) to create data visualisations. On day 1 we'll start by installing Svelte and getting our basic project running. Each day after that we'll add more elements to our setup until we have a presentable chart.
 
-In doing this I hope that I can learn more about the process (and document it) for myself and perhaps share some ideas.
+In doing this I hope that I can learn more about the process (and document it) for myself and perhaps share some ideas. -->
 
 ### What is Svelte?
 
