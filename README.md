@@ -36,19 +36,19 @@ The quickest way to do this is to use a Svelte template.
 
 At the terminal run the following:
 
-    `npx degit sveltejs/template <name-of-project>`
+    npx degit sveltejs/template <name-of-project>
 
 **Note**: If you get an error, you may need to install `npx` first. You can do this by running:
 
-    `npm install npx`
+    npm install npx
 
 Once you've done that you will have Svelte installed. To finish this process, switch to the new directory:
 
-    `cd <name-of-project>`
+    cd <name-of-project>
 
 And then the install the dependencies:
 
-    `npm install`
+    npm install
 
 This will create a file structure something like this:
 
@@ -58,7 +58,7 @@ This will create a file structure something like this:
 
 You can create this most places but for this project create the folder in the `src` directory:
 
-    `mkdir components`
+    mkdir components
 
 ##### 3 - Set up yhe App.svelte file
 
@@ -79,7 +79,7 @@ In Svelte, like most other Javascript frameworks, files or components usually co
 
 To make sure things are working as expected you can run the dev server which will compile the Svelte code:
 
-    `npm run dev`
+    npm run dev
 
 When you run this it will prepare the dev server. The output will look like this and if you (command or control) click on the link (probably http://localhost:5000) the project will open in the browser locally:
 
