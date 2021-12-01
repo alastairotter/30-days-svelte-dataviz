@@ -30,18 +30,7 @@ There are many reasons for combining D3 and Svelte but the biggest is that they 
 
 ## Prerequistites and preparations
 
-This project assumes you have [Node.js](https://nodejs.org/) installed and you're reasonably familiar with Node, HTML, CSS and Javascript. You'll also need NPM, the Node package manager. Familiarity with D3.js and Svelte (or another Javascript framework) is beneficial.
-
-There are mny different ways of installing Node and NPM depending on your platform. Most methods are linked from [Node.js](https://nodejs.org/).
-
-Also recommended: [Visual Studio Code](https://code.visualstudio.com/) for editing the code.
-
-**Resources**
-
-- [Installing Nodejs: Tutorial: macOS](https://nodesource.com/blog/installing-nodejs-tutorial-mac-os-x/)
-
-_**To Add**: Link/s to guides to install Node and NPM_
-_**Questions**: Is NPM installed by default during Node installation?_
+This project assumes you have [Node.js](https://nodejs.org/) installed and you're reasonably familiar with Node, HTML, CSS and Javascript. You'll also need to be comfortable using the terminal or command line on your computer. If you're unsure of any of this see the [Setting Up section](SETTINGUP.md).
 
 ---
 
@@ -50,18 +39,6 @@ _**Questions**: Is NPM installed by default during Node installation?_
 # Day 1 - Setting up Svelte
 
 The first thing we need to do is to install Svelte and set up a Svelte project. The quickest way to do this is to use a Svelte template.
-
-### 0 - Using the terminal
-
-You will need to run the following setup commands in the terminal on your computer. Depending on your platform there are various options. On Mac you can use the [built-in terminal app](https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac/). On Windows you can use the [built-in Command Prompt app (CMD)](https://www.webucator.com/article/how-to-run-a-nodejs-application-on-windows/). On Linux you can search for the "terminal" app and run that.
-
-Your terminal will look something like this (it may vary in colour):
-
-![terminal](/public/images/terminal.png)
-
-**Resources**
-
-- [A quick guide to using commmand line (terminal)](https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955)
 
 ### 1 - Checking/installing prerequisites
 
