@@ -26,7 +26,7 @@ There are mny different ways of installing Node and NPM depending on your platfo
 
 ---
 
-## 1 December 2021 - Setting up Svelte
+# 1 December 2021 - Setting up Svelte
 
 The first thing to do is set up a Svelte project.
 
